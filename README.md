@@ -1,20 +1,19 @@
 # resume
 [📄 View Resume PDF](https://github.com/rahnamazahra/resume/blob/main/Resume.pdf)
-# مشاهده نمونه کار  https://zrahnama.ir/
+# https://zrahnama.ir/
+# [GitHub](https://github.com/rahnamazahra) | [LinkedIn](https://www.linkedin.com/in/zahrarahnama) 
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahnamazahra&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<h2>زبان‌های پرکاربرد من در گیت‌هاب</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahnamazahra&theme=dark&hide_border=true&layout=compact" alt="Top Languages">
 
 # زهرا رهنما  
 برنامه‌نویس بک‌اند لاراول 
 متولد: ۱۳۶۹
 محل سکونت: قم
-
-# [GitHub](https://github.com/rahnamazahra) | [LinkedIn](https://www.linkedin.com/in/zahrarahnama) 
-
-
-## فعالیت در گیت
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahnamazahra&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
-
 
 
 ## خلاصه حرفه‌ای  
@@ -28,8 +27,6 @@
 آشنایی با داکر 
 (در حال یادگیری React - Next.js )
  
-
-
 
 
 ## تحصیلات
