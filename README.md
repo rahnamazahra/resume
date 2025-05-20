@@ -13,6 +13,8 @@
 ## اطلاعات تماس
 rhnm.zahra@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="GitHub stats" />
+
 
 
 ## خلاصه حرفه‌ای  
@@ -23,8 +25,8 @@ rhnm.zahra@gmail.com
  مسئولیت‌پذیر، منعطف در یادگیری، 
 علاقه‌مند به رشد فردی و تیمی. 
 تجربه در فریلنس و کار تیمی، 
-آشنا به داکر 
-در مسیر تبدیل شدن به توسعه‌دهنده‌ی فول‌استک‌(در حال یادگیری React - Next.js )
+آشنایی با داکر 
+(در حال یادگیری React - Next.js )
  
 
 
