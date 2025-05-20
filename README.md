@@ -100,7 +100,6 @@ Date of Birth: 1990
 Location: Qom, Iran
 
 Contact
-📞 09306756076 | 09052401067
  ✉️ rhnm.zahra@gmail.com
  🔗 LinkedIn
  💻 GitHub
