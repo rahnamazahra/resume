@@ -37,7 +37,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="Zahra's GitHub stats" height="165"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahnamazahra&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.demolab.com/?user=rahnamazahra&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
