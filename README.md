@@ -1,7 +1,9 @@
-# resume
+# Hi 👋, I'm Zahra
+a fullstack developer :)
+
 [📄 View Resume PDF](https://github.com/rahnamazahra/resume/blob/main/Resume.pdf)
 
-[website:](https://zrahnama.ir/)
+[https://zrahnama.ir/]
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zahrarahnama) 
