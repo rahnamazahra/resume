@@ -5,7 +5,8 @@
 برنامه‌نویس بک‌اند لاراول 
 متولد: ۱۳۶۹
 محل سکونت: قم
-[GitHub](https://github.com/rahnamazahra) | [LinkedIn](https://www.linkedin.com/in/zahrarahnama) | rhnm.zahra@gmail.com
+
+# [GitHub](https://github.com/rahnamazahra) | [LinkedIn](https://www.linkedin.com/in/zahrarahnama) 
 
 
 ## اطلاعات تماس
