@@ -10,10 +10,10 @@
 # [GitHub](https://github.com/rahnamazahra) | [LinkedIn](https://www.linkedin.com/in/zahrarahnama) 
 
 
-## اطلاعات تماس
-rhnm.zahra@gmail.com
+## فعالیت در گیت
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahnamazahra&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+
 
 
 
