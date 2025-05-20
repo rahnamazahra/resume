@@ -1,4 +1,6 @@
 # resume
+[📄 View Resume PDF](https://github.com/rahnamazahra/resume/blob/main/Resume.pdf)
+
 زهرا رهنما
 برنامه نویس بک اند لاراول
 
@@ -283,6 +285,8 @@ Photography and video editing
 
 Volunteer Experience
 Active participation in volunteer activities with a strong passion for helping others and making a social impact.
+
+[📄 View Resume PDF](https://github.com/rahnamazahra/resume/blob/main/Resume.pdf)
 
 
 
