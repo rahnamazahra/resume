@@ -37,12 +37,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rahnamazahra&show_icons=true&theme=radical" alt="Zahra's GitHub stats" height="165"/>
     </td>
     <td>
-<img src="https://github-readme-streak-stats.demolab.com/?user=rahnamazahra&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahnamazahra&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahnamazahra&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 
 ---
 
