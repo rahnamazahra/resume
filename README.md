@@ -11,8 +11,7 @@
 ## اطلاعات تماس
  09306756076  - 09052401067
 rhnm.zahra@gmail.com
-www.linkedin.com/in/zahrarahnama
-https://github.com/rahnamazahra
+
 
 
 ## خلاصه حرفه‌ای  
